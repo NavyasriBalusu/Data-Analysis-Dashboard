@@ -52,4 +52,4 @@ Dashboard Features
   
 ## Dashboard Interaction:
 
- ![image alt](https://github.com/NavyasriBalusu/Data-Analysis-Dashboard/blob/48133bd40a5c0ef60da255e350875c626af6ee2d/Screenshot.png)
+ ![image alt](https://github.com/NavyasriBalusu/Data-Analysis-Dashboard/blob/1a39e4c7a88774fe2739c622fbc309e672c0e78d/Screenshot.png)
