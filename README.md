@@ -49,3 +49,6 @@ Dashboard Features
 - DAX – for creating measures and KPIs
 - CSV Dataset
 - GitHub – for project documentation and portfolio sharing
+  
+## Dashboard
+ https://github.com/NavyasriBalusu/Data-Analysis-Dashboard/blob/main/Screenshot.png
