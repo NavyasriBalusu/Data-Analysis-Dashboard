@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I Developed  Beginner-level Power BI Sales Performance Dashboard project that analyzes sales, profit, orders, quantity, product categories, and regional performance using interactive visualizations and KPIs.
+#Sales Performance Dashboard
+##Project Objective
+To analyze a real-world sales dataset using Power BI to identify sales trends, top-performing products, customer purchasing behavior, and regional sales performance, and to present actionable business insights through an interactive dashboard.
