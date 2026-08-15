@@ -50,5 +50,6 @@ Dashboard Features
 - CSV Dataset
 - GitHub – for project documentation and portfolio sharing
   
-## Dashboard
- https://github.com/NavyasriBalusu/Data-Analysis-Dashboard/blob/main/Screenshot.png
+## Dashboard Interaction:
+
+ 
